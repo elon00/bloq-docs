@@ -1,3 +1,3 @@
 # bloq-docs
-bloq online course
+online course
 course material of bloq on advanced algorithms
