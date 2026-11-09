@@ -1,38 +1,5 @@
 {
-  "engine": "REA_Reverse_Engineer_Anything",
-  "status": "STRUCTURE_RECONSTRUCTED",
-  "analyzed_files": 10,
-  "manifest": {
-    "Certificate of Xompletion.-Martin Luther.pdf": {
-      "bytes": 104669
-    },
-    "course link": {
-      "bytes": 50
-    },
-    "README.md": {
-      "bytes": 61
-    },
-    "slides (1).pdf": {
-      "bytes": 233536
-    },
-    "reports\\RAVEN_RSI_DIAGNOSTIC.json": {
-      "bytes": 388
-    },
-    "reports\\REA_ANALYSIS.json": {
-      "bytes": 681
-    },
-    "scripts\\rea_inspector.py": {
-      "bytes": 1485
-    },
-    "scripts\\rsi_engine.py": {
-      "bytes": 2039
-    },
-    "tests\\reality_check_harness.py": {
-      "bytes": 1250
-    },
-    ".github\\workflows\\qmoosa-rsi-rea-sync.yml": {
-      "bytes": 531
-    }
-  },
-  "timestamp": 1794220567
+  "engine": "REA_Inspector",
+  "timestamp": 1794238893,
+  "total_files": 10
 }
