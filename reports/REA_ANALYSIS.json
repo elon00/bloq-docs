@@ -1,7 +1,7 @@
 {
   "engine": "REA_Reverse_Engineer_Anything",
   "status": "STRUCTURE_RECONSTRUCTED",
-  "analyzed_files": 8,
+  "analyzed_files": 10,
   "manifest": {
     "Certificate of Xompletion.-Martin Luther.pdf": {
       "bytes": 104669
@@ -14,6 +14,12 @@
     },
     "slides (1).pdf": {
       "bytes": 233536
+    },
+    "reports\\RAVEN_RSI_DIAGNOSTIC.json": {
+      "bytes": 388
+    },
+    "reports\\REA_ANALYSIS.json": {
+      "bytes": 681
     },
     "scripts\\rea_inspector.py": {
       "bytes": 1485
@@ -28,5 +34,5 @@
       "bytes": 531
     }
   },
-  "timestamp": 1793989578
+  "timestamp": 1794220567
 }
